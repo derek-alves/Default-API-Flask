@@ -1,0 +1,7 @@
+criar ambiente virtual - virtualenv venv
+
+executar ambiente virutal - .venv/Scripts/activate
+
+Executar api - flask run
+
+instalar requeriments do projeto - pip install -r requirements.txt
