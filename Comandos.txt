@@ -1,6 +1,6 @@
 criar ambiente virtual - virtualenv venv
 
-executar ambiente virutal - .venv/Scripts/activate
+executar ambiente virutal - source venv/bin/activate
 
 Executar api - flask run
 
